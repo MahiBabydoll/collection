@@ -17,7 +17,8 @@ public class ArrayListexample {
 		        fruits.add("Apple");
 		        fruits.add("Banana");
 		        fruits.add("Cherry");
-
+		        fruits.add("berry");  
+		        
 		        // Print the ArrayList
 		        System.out.println("Fruits: " + fruits);
 
